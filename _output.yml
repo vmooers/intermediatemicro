@@ -6,8 +6,6 @@ bookdown::gitbook:
         <li><a href="./">Intermediate Microeconomics</a></li>
       after: |
         <li><a href="https://github.com/vmooers/intermediatemicro" target="blank">View on GitHub</a></li>
-    download: no
-    edit: no
     sharing:
       github: yes
       facebook: no
