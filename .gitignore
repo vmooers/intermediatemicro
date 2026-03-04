@@ -1,0 +1,16 @@
+# R build artifacts
+*.Rhistory
+*.RData
+*.Ruserdata
+.Rproj.user
+
+# bookdown build outputs (local builds only; docs/ is deployed via GitHub Actions)
+_book/
+_bookdown_files/
+
+# R project file (optional, can be committed if desired)
+# *.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+book_filename: "intermediatemicro"
+new_session: yes
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files:
+  - index.Rmd
+  - 01-consumer-theory.Rmd
+  - 02-budget-constraint.Rmd
+  - 03-preferences-utility.Rmd
+  - 04-consumer-choice.Rmd
+  - 05-demand.Rmd
+  - 06-production.Rmd
+  - 07-costs.Rmd
+  - 08-profit-maximization.Rmd
+  - 09-competitive-markets.Rmd
+  - 10-monopoly.Rmd
+  - 11-game-theory.Rmd
+  - 12-oligopoly.Rmd
+  - 99-resources.Rmd
