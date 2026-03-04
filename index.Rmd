@@ -10,6 +10,8 @@ link-citations: yes
 description: "Course materials, lecture notes, and resources for Intermediate Microeconomics."
 ---
 
+# (UNDER CONSTRUCTION - do not use yet!!!)
+
 # Introduction {-}
 
 Welcome to the course materials for **Intermediate Microeconomics**. This book serves as a central hub for lecture notes, problem sets, supplemental readings, and other resources related to the course.
