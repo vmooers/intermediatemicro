@@ -8,9 +8,11 @@ bibliography: [references.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Course materials, lecture notes, and resources for Intermediate Microeconomics."
+github-repo: vmooers/intermediatemicro
 ---
 
 # (UNDER CONSTRUCTION - do not use yet!!!)
+<!-- Guide to building the book: https://rstudio4edu.github.io/rstudio4edu-book/intro-bookdown.html -->
 
 # Introduction {-}
 
