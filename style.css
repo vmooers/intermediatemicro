@@ -1,0 +1,38 @@
+/* Custom styles for Intermediate Microeconomics bookdown */
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+
+p code {
+  white-space: inherit;
+}
+
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+
+pre code {
+  white-space: inherit;
+}
+
+/* Style for "Coming soon" notices */
+em:first-of-type {
+  color: #888;
+}
+
+/* Math display */
+.math.display {
+  overflow-x: auto;
+}
+
+/* Header styling */
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+  font-size: 2em;
+}
