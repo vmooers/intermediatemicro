@@ -1,7 +1,7 @@
 --- 
 title: "Intermediate Microeconomics"
 author: "vmooers"
-date: "2026-03-04"
+date: "2026-03-09"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
