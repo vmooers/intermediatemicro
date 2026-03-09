@@ -1,0 +1,321 @@
+# Intermediate Microeconomics Teaching Prep Timeline
+**Course Start:** August 24, 2026  
+**Today:** March 9, 2026  
+**Preparation Period:** ~24 weeks
+
+## Guiding Principles
+- **Efficiency First:** Leverage existing materials extensively
+- **Research Priority:** Front-load administrative tasks, minimize summer disruption
+- **Build Gradually:** Spread preparation to avoid cramming
+- **Test Before Teaching:** Review all materials before semester starts
+
+---
+
+## PHASE 1: IMMEDIATE TASKS (March 9-16, 2026)
+**Focus:** Handle urgent administrative items
+
+### Week of March 9-16
+- [ ] **URGENT: Submit textbook order to OU bookstore** (due within 1 week)
+  - Textbook: Microeconomics (4th ed.) by Goolsbee, Levitt, and Syverson
+  - Include Achieve online access requirement
+  - Specify Inclusive Access option (students auto-enrolled unless opt-out)
+  
+- [ ] **Request materials from colleague**
+  - Full syllabus (already have)
+  - All lecture slides/notes for Chapters 2-9
+  - Exam files (all 4 exams + solutions)
+  - Bonus problem sets + solutions
+  - Canvas course shell or export (if possible)
+  
+- [ ] **Access Glen Weyl materials**
+  - Download/organize his lecture slides
+  - Bookmark YouTube playlist
+  - Review table of contents to see chapter alignment with Goolsbee text
+
+---
+
+## PHASE 2: SPRING SEMESTER PREP (March 17 - May 15, 2026)
+**Focus:** Light preparation while prioritizing research
+
+### Late March (March 17-31)
+- [ ] **Read the entire textbook** (Chapters 1-9)
+  - Budget: 2 chapters per week = ~4-5 hours/week
+  - Take notes on key concepts, difficult sections
+  - Flag areas where you'll need extra prep
+  
+- [ ] **Review colleague's syllabus thoroughly**
+  - Decide what policies to keep vs. modify
+  - Consider: grading weights, attendance policy, office hours
+  - Draft list of changes you want to make
+
+### April (Weeks of April 1-30)
+- [ ] **Continue textbook reading** (complete by end of April)
+  
+- [ ] **Review colleague's lecture materials** - ONE CHAPTER PER WEEK
+  - Week 1: Chapter 2 (Supply & Demand)
+  - Week 2: Chapter 3 (Using Supply & Demand)
+  - Week 3: Chapter 4 (Consumer Behavior)
+  - Week 4: Chapter 5 (Individual & Market Demand)
+  - Goal: Understand flow, identify gaps, note questions
+  - ~3-4 hours per chapter
+  
+- [ ] **Compare with Weyl materials**
+  - Watch 1-2 Weyl lectures per week as supplement
+  - Note interesting pedagogical approaches
+  - Identify concepts where Weyl's explanation might help
+
+### Early May (May 1-15)
+- [ ] **Complete lecture material review** (Chapters 6-9)
+  - Chapter 6: Producer Behavior
+  - Chapter 7: Costs
+  - Chapter 8: Perfect Competition
+  - Chapter 9: Market Power & Monopoly
+  
+- [ ] **Review all 4 exams from colleague**
+  - Understand difficulty level, question types
+  - Check solutions for accuracy
+  - Note which problems you find challenging
+
+**End of Phase 2 Checkpoint:**
+- Textbook fully read
+- All existing materials reviewed
+- Clear sense of what needs modification
+
+---
+
+## PHASE 3: SUMMER BREAK - RESEARCH FOCUS (May 16 - July 31, 2026)
+**Focus:** Minimal teaching prep, maximize research productivity
+
+### May 16 - June 30 (6 weeks)
+**RESEARCH INTENSIVE PERIOD - Minimal teaching work**
+
+- [ ] **One small task per week** (1-2 hours max):
+  - Week 1 (May 16-22): Draft your own syllabus based on colleague's template
+  - Week 2 (May 23-29): Decide on any textbook changes or supplementary readings
+  - Week 3 (May 30-June 5): Review Achieve homework system tutorial videos
+  - Week 4 (June 6-12): Plan your office hours and classroom policies
+  - Week 5 (June 13-19): Start thinking about first day of class activities
+  - Week 6 (June 20-26): No teaching work - full research week
+
+### July 1-31 (4 weeks)
+**BEGIN MORE INTENSIVE PREP**
+
+- [ ] **Week 1 (July 1-7): Syllabus & Administrative**
+  - Finalize syllabus (4-5 hours)
+  - Create class schedule/calendar for Fall semester
+  - Draft first day welcome email
+  
+- [ ] **Week 2 (July 8-14): Early Chapters (2-3)**
+  - Customize lecture slides for Chapters 2-3
+  - Add your own examples, update data/current events
+  - Practice delivering 2-3 lectures out loud (even to empty room)
+  - Time estimate: 8-10 hours
+  
+- [ ] **Week 3 (July 15-21): Chapters 4-5**
+  - Customize lecture slides for Chapters 4-5
+  - These are crucial consumer theory chapters - extra attention
+  - Create any additional practice problems
+  - Time estimate: 8-10 hours
+  
+- [ ] **Week 4 (July 22-31): Chapters 6-7**
+  - Customize lecture slides for Chapters 6-7
+  - Producer theory - mirror your Chapter 4-5 approach
+  - Time estimate: 8-10 hours
+
+---
+
+## PHASE 4: FINAL PREP (August 1-23, 2026)
+**Focus:** Complete preparation, system setup, mental readiness
+
+### Week 1 (August 1-7): Chapters 8-9 + Canvas Setup
+- [ ] **Customize final lecture slides** (Chapters 8-9) - 8-10 hours
+  
+- [ ] **Canvas course setup** - 6-8 hours
+  - Upload syllabus and schedule
+  - Create module structure (one per chapter)
+  - Link Achieve assignments
+  - Set up gradebook categories
+  - Create announcement templates
+  - Post first week materials
+
+### Week 2 (August 8-14): Exam Preparation
+- [ ] **Review and customize all 4 exams** - 8-10 hours
+  - Ensure they match your lecture emphasis
+  - Update any dated examples
+  - Create alternative versions if desired
+  - Prepare answer keys
+  
+- [ ] **Create exam 1 (Chapters 2-3)** - 4 hours
+  - Even if using colleague's exam, customize to your style
+  - Prepare solutions document
+  
+- [ ] **Prepare bonus problems** for Chapters 2-3 - 2-3 hours
+
+### Week 3 (August 15-23): Final Touches
+- [ ] **August 17-18: Faculty orientation** (attend all sessions)
+  
+- [ ] **Practice teaching** - 6-8 hours total
+  - Do a full "dress rehearsal" of first 3-4 lectures
+  - Time yourself (should be ~45 min, leaving 5 min for Q&A)
+  - Record yourself if possible
+  - Practice board work and transitions
+  
+- [ ] **Achieve system logistics** - 2-3 hours
+  - Complete instructor training modules
+  - Set up first homework assignment
+  - Test student view
+  - Prepare troubleshooting guide for students
+  
+- [ ] **Administrative final prep** - 3-4 hours
+  - Print roster, familiarize with student names
+  - Prepare first day materials (handouts, activities)
+  - Create "Week 1 checklist" for yourself
+  - Set up email folders/labels for student communication
+  - Plan first office hours
+
+- [ ] **Self-care prep** - 2 hours
+  - Review first-time teacher advice
+  - Prepare "emergency backup plans" (what if class ends early?)
+  - Organize your desk/office
+  - Get good sleep August 22-23!
+
+### August 24: First Day of Class! 🎉
+
+---
+
+## TOTAL TIME ESTIMATES BY PHASE
+
+| Phase | Time Period | Est. Hours/Week | Total Hours |
+|-------|-------------|-----------------|-------------|
+| Phase 1 | March 9-16 | 4-5 hours | 4-5 hours |
+| Phase 2 | March 17-May 15 (9 weeks) | 5-6 hours | 45-55 hours |
+| Phase 3 | May 16-June 30 (6 weeks) | 1-2 hours | 6-12 hours |
+| Phase 3 | July 1-31 (4 weeks) | 8-10 hours | 32-40 hours |
+| Phase 4 | August 1-23 (3 weeks) | 10-15 hours | 30-45 hours |
+| **TOTAL** | | | **~120-160 hours** |
+
+**Average: 5-7 hours per week over 24 weeks**
+
+---
+
+## KEY RECOMMENDATIONS
+
+### On Using Existing Materials
+✅ **DO:**
+- Use colleague's materials as your foundation extensively
+- Adapt slides rather than creating from scratch
+- Use their exam structure and question types
+- Follow their chapter sequencing (it works!)
+
+❌ **DON'T:**
+- Feel pressure to reinvent everything
+- Apologize for using proven materials
+- Spend time on fancy PowerPoint animations
+
+### On Glen Weyl Materials
+**You do NOT need permission to:**
+- Use his public YouTube videos as supplementary resources
+- Recommend them to students as optional viewing
+- Watch them yourself for pedagogical ideas
+- Use pedagogical approaches you observe
+
+**You DO need permission (or should avoid) if you:**
+- Want to use his actual slides in your class verbatim
+- Plan to distribute his copyrighted materials to students
+- Use substantial portions of his proprietary content
+
+**Best approach:** 
+- List Weyl videos as "optional supplementary lectures" on syllabus
+- Cite him when you borrow specific examples or approaches
+- Send him a brief courtesy email thanking him and letting him know - professors generally appreciate this!
+
+### Research Protection Strategy
+🔬 **June is your RESEARCH MONTH** - protect it fiercely
+- Most intensive teaching prep happens in April-May (while reading) and July-August (while customizing)
+- June 20-26: Complete break from teaching prep
+- Build in buffer time so you're not stressed
+
+### First-Timer Tips
+1. **Week 1 will feel chaotic** - that's normal
+2. **Arrive 15 minutes early** to every class (first 2 weeks)
+3. **Prepare 60 minutes of material** for 50-minute classes initially (you'll speed up as nervous energy fades)
+4. **Have a backup activity** ready if you finish early
+5. **Record yourself** (with permission) in Week 1-2 to review pacing
+6. **Be transparent with students:** "This is my first time teaching this course" can generate goodwill
+
+### What You DON'T Need to Do
+- Memorize everything (you can use notes!)
+- Create elaborate Canvas modules
+- Respond to emails in under 5 minutes
+- Know the answer to every question immediately
+
+---
+
+## EMERGENCY SHORTCUTS (if timeline gets compressed)
+
+If something happens and you fall behind, here's priority order:
+
+**CRITICAL (Must have):**
+1. Syllabus completed
+2. First 2 weeks of lectures ready
+3. Canvas shell set up with basic info
+4. Exam 1 prepared
+
+**HIGH PRIORITY:**
+5. All lecture slides reviewed (even if not customized)
+6. Achieve homework system understood
+7. First 4 weeks prepared
+
+**NICE TO HAVE:**
+8. All lectures customized
+9. All exams prepared in advance
+10. Bonus problems created
+
+---
+
+## MONTHLY CHECKLIST SUMMARY
+
+### March
+- ✅ Submit textbook order
+- ✅ Collect all materials
+- ✅ Start reading textbook
+
+### April
+- ✅ Finish textbook
+- ✅ Review Chapters 2-5 lecture materials
+- ✅ Watch some Weyl lectures
+
+### May
+- ✅ Review Chapters 6-9 lecture materials  
+- ✅ Review all exams
+- ✅ Complete material review
+
+### June
+- ✅ Light admin tasks (1-2 hrs/week)
+- ✅ **FOCUS ON RESEARCH**
+
+### July
+- ✅ Finalize syllabus
+- ✅ Customize all lecture slides
+- ✅ Update examples and problems
+
+### August
+- ✅ Canvas setup
+- ✅ Exam preparation
+- ✅ Practice teaching
+- ✅ Faculty orientation
+- ✅ Final prep and self-care
+
+---
+
+## CONFIDENCE BUILDERS
+
+Remember:
+- You have a PhD in Economics - you know this material
+- 40 students is very manageable
+- You have proven materials to work from
+- Intermediate Micro is a well-structured, standard course
+- Students are forgiving of first-time teachers who are prepared and enthusiastic
+- You have 5+ months - this is plenty of time!
+
+**You've got this!** 🎓
