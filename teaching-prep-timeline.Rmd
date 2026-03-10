@@ -1,6 +1,6 @@
-# Intermediate Microeconomics Teaching Prep Timeline
+# Intermediate Microeconomics Teaching Prep Timeline {-}
 **Course Start:** August 24, 2026  
-**Today:** March 9, 2026  
+**Today:** March 10, 2026  
 **Preparation Period:** ~24 weeks
 
 ## Guiding Principles
@@ -207,13 +207,13 @@
     - Create troubleshooting guide
   - Watch Macmillan's webinars on Canvas integration if available
 
-**End of Phase 2 Checkpoint:**
-- ✅ Textbook fully read (Goolsbee + referenced Varian)
-- ✅ All existing materials reviewed  
-- ✅ Publisher slides obtained
-- ✅ Clear sense of what needs modification
-- ✅ Bookdown structure in place with draft content
-- ✅ Canvas/Achieve integration understood and tested
+- **End of Phase 2 Checkpoint:**
+  - ✅ Textbook fully read (Goolsbee + referenced Varian)
+  - ✅ All existing materials reviewed  
+  - ✅ Publisher slides obtained
+  - ✅ Clear sense of what needs modification
+  - ✅ Bookdown structure in place with draft content
+  - ✅ Canvas/Achieve integration understood and tested
 
 ---
 
@@ -495,21 +495,21 @@
 
 ### August 24: First Day of Class! 🎉
 
-**First Day Checklist:**
-- [ ] Arrive 20 minutes early
-- [ ] Test projector and computer
-- [ ] Write your name and email on board
-- [ ] Write office hours on board
-- [ ] Have printed syllabus ready
-- [ ] Have Canvas/Achieve handout ready
-- [ ] Take attendance (start learning names!)
-- [ ] Introduce yourself (mention this is your first time teaching this course - builds rapport!)
-- [ ] Cover syllabus (don't rush - students need to understand policies)
-- [ ] **Demo Canvas/Achieve access** (walk through on projector)
-- [ ] Mention optional resources (Weyl videos, Varian, bookdown site if public)
-- [ ] If time: start Chapter 2 content
-- [ ] Stay after class for questions
-- [ ] Send welcome email with Canvas/Achieve instructions (again!)
+- **First Day Checklist:**
+  - [ ] Arrive 20 minutes early
+  - [ ] Test projector and computer
+  - [ ] Write your name and email on board
+  - [ ] Write office hours on board
+  - [ ] Have printed syllabus ready
+  - [ ] Have Canvas/Achieve handout ready
+  - [ ] Take attendance (start learning names!)
+  - [ ] Introduce yourself (mention this is your first time teaching this course - builds rapport!)
+  - [ ] Cover syllabus (don't rush - students need to understand policies)
+  - [ ] **Demo Canvas/Achieve access** (walk through on projector)
+  - [ ] Mention optional resources (Weyl videos, Varian, bookdown site if public)
+  - [ ] If time: start Chapter 2 content
+  - [ ] Stay after class for questions
+  - [ ] Send welcome email with Canvas/Achieve instructions (again!)
 
 ---
 
@@ -533,11 +533,13 @@
 ### Understanding the Integration
 
 **What is LTI?**
+
 - Learning Tools Interoperability - standard protocol for external tools to integrate with Canvas
 - Achieve uses LTI to connect with Canvas
 - Once set up, students never need to log into Achieve separately
 
 **How it Works:**
+
 1. OU bookstore sets up student Achieve access (through Inclusive Access)
 2. You install Achieve LTI app in your Canvas course
 3. You link Achieve assignments to Canvas modules
@@ -547,6 +549,7 @@
 7. You can view student progress in both Canvas and Achieve instructor dashboard
 
 **Benefits:**
+
 - ✅ Students access everything through one place (Canvas)
 - ✅ Automatic grading - saves you hours per week
 - ✅ Grades automatically in Canvas gradebook
@@ -556,21 +559,25 @@
 ### Common Issues & Solutions
 
 **Issue:** Students can't access Achieve
+
 - **Check:** Did they opt out of Inclusive Access? (Need to purchase separately)
 - **Check:** Did they click through Canvas, not go to Achieve directly?
 - **Solution:** Have them contact OU bookstore to reinstate Inclusive Access
 
 **Issue:** Grades not showing in Canvas
+
 - **Check:** Did you enable grade passback when creating assignment?
 - **Check:** Is Achieve assignment worth points in Canvas?
 - **Solution:** Edit assignment settings, ensure "Sync Grades" is enabled
 
 **Issue:** Student can't see assignment
+
 - **Check:** Is module published?
 - **Check:** Is assignment published?
 - **Check:** Are there date restrictions on the assignment?
 
 **Issue:** Assignment link doesn't work
+
 - **Check:** Did Achieve app lose connection? May need to reinstall LTI
 - **Solution:** Go to Settings → Apps → Find Achieve → Reinstall
 
@@ -587,6 +594,7 @@
 ### What Goes in Bookdown Chapters (public/table of contents):
 
 **index.Rmd** - Homepage
+
 - Course title and description
 - Your info and contact
 - Office hours
@@ -594,13 +602,16 @@
 - Getting started guide
 
 **01-introduction.Rmd**
+
 - What is microeconomics?
 - Course overview
 - How to succeed in this course
 - Resources available
 
 **02-supply-and-demand.Rmd** through **09-market-power-monopoly.Rmd**
+
 For each chapter:
+
 - Key concepts and definitions
 - Important graphs/figures
 - Worked examples (your favorites)
@@ -610,6 +621,7 @@ For each chapter:
 - Links to Weyl videos: `[Watch Prof. Weyl's lecture](...)`
 
 **10-resources.Rmd**
+
 - Optional textbooks (Varian)
 - YouTube playlists (Weyl)
 - Practice problem sources
@@ -645,18 +657,21 @@ For each chapter:
 ### Bookdown Tips
 
 **Keeping Things Private:**
+
 - Can have draft chapters (don't list in `_bookdown.yml`)
 - Can link to materials in `/static/` only when ready
 - Example: Have exam solutions but don't link until after exam
 - Can have private branch for your notes, public branch for student site
 
 **Iterative Development:**
+
 - Don't need to finish everything before launching
 - Can add chapters as semester progresses
 - Can update content weekly
 - Students appreciate seeing it grow with the course
 
 **Best Practice:**
+
 - Write in your own voice - this is your interpretation of the material
 - Include examples that resonate with you
 - Note where Goolsbee vs. Varian differs
@@ -668,7 +683,9 @@ For each chapter:
 ## KEY RECOMMENDATIONS
 
 ### On Canvas/Achieve Integration
+
 **MOST IMPORTANT:** 
+
 - Test the integration thoroughly in May
 - Test again in August before students arrive
 - Have clear troubleshooting guide ready
@@ -677,13 +694,16 @@ For each chapter:
 - Be patient - there will be tech issues week 1
 
 **Time savers:**
+
 - Achieve does automatic grading
 - Grades sync to Canvas automatically
 - No need to manually enter homework grades!
 - Can see student progress without asking
 
 ### On Using Publisher Materials
+
 ✅ **DO:**
+
 - Start with publisher's instructor slides for every chapter
 - Modify them freely - add your examples, remove fluff
 - Use publisher test bank for exam questions
@@ -691,6 +711,7 @@ For each chapter:
 - Customize freely - this is expected and encouraged!
 
 ❌ **DON'T:**
+
 - Feel guilty about using these materials (you paid for them!)
 - Try to create slides from scratch
 - Use their materials without any modification
@@ -700,6 +721,7 @@ For each chapter:
 Your colleague's advice: **"Students responded best to a course format where I work through lots of examples in class and give students time to work on their own rather than a lecture-only format."**
 
 **Implementation tips:**
+
 - Plan 2-3 worked examples per class period
 - After each example, give a similar problem for students to try (5-10 min)
 - Walk around, answer questions while they work
@@ -708,6 +730,7 @@ Your colleague's advice: **"Students responded best to a course format where I w
 - **Time management:** Don't over-prepare content - interactive time fills quickly
 
 **Typical class structure:**
+
 1. Brief concept review (10 min)
 2. Work through Example 1 (10 min)
 3. Students practice similar problem (7 min)
@@ -717,32 +740,40 @@ Your colleague's advice: **"Students responded best to a course format where I w
 7. Wrap-up/questions (3 min)
 
 ### On Hal Varian Textbook
+
 **How to use it:**
+
 - **For you:** Deeper mathematical understanding, alternative explanations
 - **For students:** Recommend as optional supplement for math-oriented students
 - **In class:** "If you want to see a more mathematical treatment, check Varian Chapter X"
 - **On exams:** Can include more mathematical problems (but also more applied ones)
 
 **Key differences:**
+
 - Varian: More abstract, proof-based, mathematical rigor
 - Goolsbee: More applied, empirical examples, real-world focus
 - **Your approach:** Use Goolsbee as main text, reference Varian for deeper theory
 
 ### On Glen Weyl Materials
+
 **You do NOT need permission to:**
+
 - Use his public YouTube videos as supplementary resources
 - Recommend them to students as optional viewing
 - Watch them yourself for pedagogical ideas
 - Use pedagogical approaches you observe
 
 **Best approach:** 
+
 - List Weyl videos as "optional supplementary lectures" on syllabus/bookdown
 - Link to them in relevant chapters
 - Students appreciate having alternative explanations
 - Send courtesy email thanking him (optional but nice)
 
 ### On Bookdown Development
+
 **Keep it simple your first time:**
+
 - Think of it as your personal course notebook
 - Write chapter notes as you prep
 - Add materials gradually
@@ -750,12 +781,15 @@ Your colleague's advice: **"Students responded best to a course format where I w
 - Don't stress about making it perfect
 
 **Decide: Public or Private?**
+
 - **Public:** More pressure to polish, but students appreciate organized resources
 - **Private:** Can be messy, work-in-progress, just for you
 - **Recommendation:** Start private, can make public later after first semester
 
 ### Research Protection Strategy
+
 🔬 **June is your RESEARCH MONTH** - protect it fiercely
+
 - Most intensive teaching prep: April-May (reading/reviewing) and July-August (customizing)
 - June 20-26: Complete break from teaching prep
 - Total prep time is ~115-145 hours over 24 weeks
@@ -787,6 +821,7 @@ Your colleague's advice: **"Students responded best to a course format where I w
 If something happens and you fall behind, here's priority order:
 
 **CRITICAL (Must have):**
+
 1. Syllabus completed ✅ 
 2. Canvas course set up with Achieve integrated
 3. First 2 weeks of lectures ready (Chapters 2-3)
@@ -795,12 +830,14 @@ If something happens and you fall behind, here's priority order:
 6. Canvas/Achieve student guide created
 
 **HIGH PRIORITY:**
+
 7. All lecture slides reviewed (even if not fully customized)
 8. First 4 weeks of material ready
 9. Understand Achieve system thoroughly
 10. Practice teaching interactive format
 
 **NICE TO HAVE:**
+
 11. All lectures fully customized
 12. All exams prepared in advance
 13. Bonus problems created
@@ -808,6 +845,7 @@ If something happens and you fall behind, here's priority order:
 15. Varian references integrated
 
 **SKIP IF NECESSARY:**
+
 16. Bookdown public site (keep private for yourself)
 17. Recording yourself practicing
 18. Creating alternative exam versions
@@ -864,6 +902,7 @@ If something happens and you fall behind, here's priority order:
 ## CONFIDENCE BUILDERS
 
 Remember:
+
 - ✅ You have a PhD in Economics - you deeply understand this material
 - ✅ 40 students is very manageable
 - ✅ You have excellent materials: colleague's + publisher's + Weyl's + Varian
@@ -889,6 +928,7 @@ Remember:
 - You survive and want to teach again ✅
 
 You don't need:
+
 - ❌ Perfect lectures
 - ❌ Zero Canvas/Achieve issues (there will be some)
 - ❌ To be the best teacher students ever had
@@ -923,16 +963,16 @@ You don't need:
 - Your Bookdown: https://vmooers.github.io/intermediatemicro/
 
 ### Week 1 Must-Haves (Day 1 Checklist)
-□ Printed syllabus
-□ Canvas/Achieve handout
-□ Test projector/tech
-□ Student roster
-□ First lecture slides
-□ Backup plan if tech fails
-□ Office hours schedule posted
-□ Canvas fully tested
-□ Good night's sleep!
-□ Coffee ☕
+- [ ] Printed syllabus
+- [ ] Canvas/Achieve handout
+- [ ] Test projector/tech
+- [ ] Student roster
+- [ ] First lecture slides
+- [ ] Backup plan if tech fails
+- [ ] Office hours schedule posted
+- [ ] Canvas fully tested
+- [ ] Good night's sleep!
+- [ ] Coffee ☕
 
 ### Emergency "I'm Behind" Priority List
 1. Canvas/Achieve working
